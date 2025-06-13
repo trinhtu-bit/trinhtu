@@ -1,1 +1,10 @@
-
+{
+  "admin": [
+    {
+      "username": "admin1",
+      "password": "1",   // Bcrypt hash
+      "subscription": "aimkillapk",
+      "expiry": "2025-12-31",
+      "device_id": ""
+    }
+  ]
